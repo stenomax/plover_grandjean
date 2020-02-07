@@ -14,4 +14,4 @@ The dictionaries are currently empty. I am working on a lexicon that would form 
 
 ## Side note
 
-I have also made a [French version of the keyboard layout](https://github.com/stenomax/plover_grandjean_layout) that can be used with [Plover's Layout display plugin](https://github.com/morinted/plover_layout_display).
+I have also made a [French version of the keyboard layout](https://github.com/stenomax/plover_grandjean_layout) that can be use with [Plover's Layout display plugin](https://github.com/morinted/plover_layout_display).
