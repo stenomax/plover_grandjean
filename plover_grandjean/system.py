@@ -1,5 +1,3 @@
-# vim: set fileencoding=utf-8 :
-
 # SKPMTF*RNLYOEAUIln$DC
 
 KEYS = (
@@ -18,16 +16,7 @@ NUMBERS = {}
 
 UNDO_STROKE_STENO = 'Ul$C'
 
-ORTHOGRAPHY_RULES = [
-	# == pluriel ==
-	# table + s = tables
-	#(r'^(.*(?:s|x|z)) \^ s$', r'\1s'),
-	
-	# == les ==
-	# les + table = les tables
-	#(r'^(les) \^ (.*(?:0|1|2|3|4|5|6|7|8|9|s|x|z))', r'\1\^\2s'),
-	
-]
+ORTHOGRAPHY_RULES = []
 
 ORTHOGRAPHY_RULES_ALIASES = {}
 
